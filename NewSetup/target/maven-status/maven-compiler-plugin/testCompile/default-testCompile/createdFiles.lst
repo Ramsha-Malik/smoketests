@@ -1,0 +1,4 @@
+pageObjects\SearchPage.class
+testCase1\SearchTab.class
+testConfigurations\Configure.class
+pageObjects\MainPage.class
